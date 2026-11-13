@@ -33,7 +33,8 @@ Lalu buka <http://localhost:8000>.
 1. Ambil screenshot project (rasio 16:10, lebar 1440px), simpan ke
    `assets/img/nama-project.jpg`. Buat juga versi 720px bila mau
    (`nama-project-720.jpg`).
-2. Buka `index.html`, cari blok `<!-- PROJECT 02 -->`, lalu copy satu
+2. Buka `index.html`, cari blok project terakhir (misalnya
+   `<!-- PROJECT 03 -->`), lalu copy satu
    `<article class="project"> ... </article>`.
 3. Ganti:
    - `href` dan `aria-label` pada `project__media` serta judul,
